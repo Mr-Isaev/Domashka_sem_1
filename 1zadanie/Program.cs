@@ -9,10 +9,10 @@ if (a == b){
 else{
 	if (a > b)
 	{
-		Console.WriteLine("Самое большое число здесь: " + a);
+		Console.WriteLine("Максимальное число: " + a + " Минимальное число: " + b);
 	}
 	else
 	{
-		Console.WriteLine("Самое большое число здесь: " + b);
+		Console.WriteLine("Самое большое число здесь: " + b + " Минимальное число: " + a);
 	}
 }
